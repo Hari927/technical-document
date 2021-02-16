@@ -37,11 +37,11 @@
 to signup github [clickhere](https://github.com/join)
 
 **to create a table**
-Name|Branch|Rollno
+|Name|Branch|Rollno
 ----|------|------
 ram|cse|1
 Hari|cse|2
-nag|cse|3
+nag|cse|3|
 
 
 **to insert a code**
