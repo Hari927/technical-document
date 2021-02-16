@@ -8,13 +8,7 @@ Welcome to Hari's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :Numbers:
 
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
